@@ -1,0 +1,8 @@
+numpy
+scipy
+shapely
+trimesh
+osmnx
+pyproj
+fast-simplification
+tqdm

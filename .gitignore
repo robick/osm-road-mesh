@@ -1,0 +1,16 @@
+# Output meshes
+output/
+*.stl
+*.glb
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Caches
+.cache/
+cache/
